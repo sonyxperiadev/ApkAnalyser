@@ -1,0 +1,6 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/apkanalyser.properties
+/asm-all-3.0.jar
